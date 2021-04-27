@@ -18,6 +18,6 @@ jobs:
         with:
           username: ${{ secrets.user_name }}
           password: ${{ secrets.password }}
-          reason: 吃饭
+          reason: "吃饭"
           wechat: "False"
           sckey: "v"
